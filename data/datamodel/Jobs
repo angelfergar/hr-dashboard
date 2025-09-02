@@ -1,34 +1,32 @@
-PositionID,Position,Department
+JobID,Position,Department
 1,Accountant I,Admin Offices
-26,Sr. Accountant,Admin Offices
+26,Shared Services Manager,Admin Offices
+29,Sr. Accountant,Admin Offices
 2,Administrative Assistant,Admin Offices
-23,Shared Services Manager,Admin Offices
-16,President & CEO,Executive Office
-22,Senior BI Developer,IT/IS
+19,President & CEO,Executive Office
+8,Data Architect,IT/IS
+20,Principal Data Architect,IT/IS
 4,BI Developer,IT/IS
-13,IT Manager - Infra,IT/IS
-7,Data Architect,IT/IS
-30,Enterprise Architect,IT/IS
-12,IT Director,IT/IS
-14,IT Support,IT/IS
-13,IT Manager - Support,IT/IS
-6,CIO,IT/IS
-9,Data Analyst,IT/IS
-28,Sr. Network Engineer,IT/IS
-29,Principal Data Architect,IT/IS
-27,Sr. DBA,IT/IS
-15,Network Engineer,IT/IS
-13,IT Manager - DB,IT/IS
-8,Database Administrator,IT/IS
 5,BI Director,IT/IS
-20,Production Technician II,Production
-18,Production Manager,Production
+16,IT Manager - Support,IT/IS
+17,IT Support,IT/IS
+18,Network Engineer,IT/IS
+15,IT Manager - Infra,IT/IS
+9,Database Administrator,IT/IS
+31,Sr. Network Engineer,IT/IS
+13,IT Director,IT/IS
+25,Senior BI Developer,IT/IS
+30,Sr. DBA,IT/IS
+14,IT Manager - DB,IT/IS
+12,Enterprise Architect,IT/IS
+7,Data Analyst,IT/IS
+6,CIO,IT/IS
 10,Director of Operations,Production
-17,Production Manager,Production
-19,Production Technician I,Production
-21,Sales Manager,Sales
-3,Area Sales Manager,Sales
+22,Production Technician I,Production
+21,Production Manager,Production
+23,Production Technician II,Production
+24,Sales Manager,Sales
 11,Director of Sales,Sales
-23,Software Engineer,Software Engineering
-25,Software Engineering Manager,Software Engineering
-24,Software Engineer,Software Engineering
+3,Area Sales Manager,Sales
+28,Software Engineering Manager,Software Engineering
+27,Software Engineer,Software Engineering

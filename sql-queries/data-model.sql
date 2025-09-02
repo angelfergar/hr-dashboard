@@ -10,7 +10,7 @@ DROP TABLE IF EXISTS `hr-project-470820.HR_Data.Performance`;
 CREATE TABLE `hr-project-470820.HR_Data.Employees` AS
 SELECT
   EmpID,
-  PositionID,
+  JobID,
   ManagerID,
   Salary
 FROM `hr-project-470820.HR_Data.RawData`
@@ -33,7 +33,6 @@ WHERE EmpID IS NOT NULL;
 CREATE TABLE `hr-project-470820.HR_Data.Managers` AS
 SELECT DISTINCT
   ManagerID,
-  PositionID,
   ManagerName
 FROM `hr-project-470820.HR_Data.RawData`
 WHERE ManagerID IS NOT NULL;
@@ -41,11 +40,11 @@ WHERE ManagerID IS NOT NULL;
 -- Jobs table
 CREATE TABLE `hr-project-470820.HR_Data.Jobs` AS
 SELECT DISTINCT
-  PositionID,
+  JobID,
   Position,
   Department
 FROM `hr-project-470820.HR_Data.RawData`
-WHERE PositionID IS NOT NULL;
+WHERE JobID IS NOT NULL;
 
 -- EmploymentStatus table
 CREATE TABLE `hr-project-470820.HR_Data.EmploymentStatus` AS
