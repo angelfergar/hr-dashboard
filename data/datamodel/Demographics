@@ -1,0 +1,312 @@
+EmpID,DOB,Sex,State,RaceDesc,CitizenDesc,MaritalDesc
+10009,0086-11-06,F,MA,American Indian or Alaska Native,US Citizen,Divorced
+10167,0088-09-14,M,NH,American Indian or Alaska Native,US Citizen,Married
+10218,0083-12-08,F,MA,American Indian or Alaska Native,US Citizen,Separated
+10106,0079-07-25,F,MA,Asian,US Citizen,Divorced
+10226,0058-12-27,F,MA,Asian,US Citizen,Divorced
+10187,0084-10-15,F,MA,Asian,Eligible NonCitizen,Divorced
+10176,0080-02-02,M,MA,Asian,US Citizen,Married
+10289,0076-11-15,M,MA,Asian,US Citizen,Married
+10217,0079-03-10,F,MA,Asian,Eligible NonCitizen,Married
+10050,0088-03-06,M,MA,Asian,US Citizen,Married
+10078,0052-02-11,F,MA,Asian,US Citizen,Married
+10251,0082-09-02,M,MA,Asian,US Citizen,Married
+10180,0083-02-09,M,MA,Asian,US Citizen,Married
+10266,0085-03-14,M,MA,Asian,US Citizen,Married
+10156,0086-11-07,F,MA,Asian,US Citizen,Married
+10256,0074-10-09,F,MA,Asian,US Citizen,Married
+10011,0073-01-12,F,MA,Asian,US Citizen,Married
+10297,0089-07-18,F,MA,Asian,US Citizen,Married
+10110,0087-11-07,F,MA,Asian,US Citizen,Single
+10175,0070-03-10,M,MA,Asian,US Citizen,Single
+10253,0089-07-11,M,ME,Asian,US Citizen,Single
+10301,0082-05-04,F,MA,Asian,US Citizen,Single
+10079,0070-04-25,M,MA,Asian,US Citizen,Single
+10216,0080-04-18,M,MA,Asian,US Citizen,Single
+10087,0079-01-17,F,MA,Asian,US Citizen,Single
+10232,0087-06-14,F,MA,Asian,US Citizen,Single
+10209,0068-08-15,F,MA,Asian,Eligible NonCitizen,Single
+10071,0075-03-10,F,MA,Asian,US Citizen,Single
+10277,0079-04-06,M,MA,Asian,US Citizen,Single
+10172,0081-07-08,M,MA,Asian,US Citizen,Single
+10271,0078-08-17,F,MA,Asian,US Citizen,Widowed
+10127,0078-05-02,F,MA,Asian,US Citizen,Widowed
+10012,0088-07-04,M,TX,Black or African American,US Citizen,Divorced
+10123,0067-06-05,F,MA,Black or African American,US Citizen,Divorced
+10229,0087-12-17,M,MA,Black or African American,US Citizen,Divorced
+10230,0081-09-05,F,MA,Black or African American,Eligible NonCitizen,Divorced
+10222,0064-01-04,M,MA,Black or African American,US Citizen,Divorced
+10038,0084-04-26,M,MA,Black or African American,US Citizen,Divorced
+10291,0084-08-16,M,MA,Black or African American,US Citizen,Divorced
+10122,0070-05-15,F,MA,Black or African American,US Citizen,Divorced
+10031,0069-09-29,M,MA,Black or African American,US Citizen,Divorced
+10016,0084-09-16,F,MA,Black or African American,US Citizen,Married
+10252,0074-01-12,F,MA,Black or African American,US Citizen,Married
+10124,0088-08-29,F,KY,Black or African American,US Citizen,Married
+10288,0086-10-05,M,MA,Black or African American,Eligible NonCitizen,Married
+10159,0090-10-01,F,MA,Black or African American,US Citizen,Married
+10300,0064-10-12,M,MA,Black or African American,US Citizen,Married
+10239,0080-05-12,F,MA,Black or African American,US Citizen,Married
+10263,0078-09-22,F,MA,Black or African American,US Citizen,Married
+10182,0085-09-16,F,MA,Black or African American,US Citizen,Married
+10158,0078-03-28,F,MA,Black or African American,US Citizen,Married
+10238,0087-11-24,F,MA,Black or African American,US Citizen,Married
+10138,0086-04-17,F,MA,Black or African American,US Citizen,Married
+10241,0089-05-12,F,MT,Black or African American,US Citizen,Married
+10188,0064-06-01,F,VA,Black or African American,Eligible NonCitizen,Married
+10081,0087-04-04,F,MA,Black or African American,US Citizen,Married
+10145,0087-01-07,F,MA,Black or African American,US Citizen,Married
+10057,0075-10-22,F,MA,Black or African American,US Citizen,Married
+10047,0074-01-07,M,MA,Black or African American,US Citizen,Married
+10242,0074-02-21,M,MA,Black or African American,US Citizen,Married
+10153,0087-06-14,F,MA,Black or African American,US Citizen,Married
+10131,0084-11-06,M,MA,Black or African American,Eligible NonCitizen,Married
+10234,0089-06-30,M,MA,Black or African American,US Citizen,Married
+10274,0055-11-14,F,MA,Black or African American,US Citizen,Married
+10118,0086-08-07,M,MA,Black or African American,US Citizen,Married
+10283,0074-08-09,M,MA,Black or African American,US Citizen,Married
+10119,0073-03-12,F,MA,Black or African American,US Citizen,Married
+10284,0078-12-02,F,MA,Black or African American,US Citizen,Married
+10221,0075-04-03,F,MA,Black or African American,Non-Citizen,Married
+10169,0088-07-10,F,MA,Black or African American,US Citizen,Married
+10290,0087-05-15,F,MA,Black or African American,US Citizen,Married
+10100,0051-02-25,F,MA,Black or African American,US Citizen,Separated
+10103,0088-12-27,M,UT,Black or African American,US Citizen,Separated
+10037,0067-06-03,F,MA,Black or African American,US Citizen,Separated
+10203,0069-10-30,F,MA,Black or African American,US Citizen,Separated
+10120,0074-12-01,M,MA,Black or African American,US Citizen,Separated
+10107,0080-03-02,F,MA,Black or African American,US Citizen,Single
+10025,0070-04-24,F,MA,Black or African American,US Citizen,Single
+10086,0072-11-21,F,MA,Black or African American,US Citizen,Single
+10168,0088-05-31,F,MA,Black or African American,Non-Citizen,Single
+10199,0064-07-30,M,CT,Black or African American,US Citizen,Single
+10082,0086-06-06,F,MA,Black or African American,US Citizen,Single
+10264,0069-10-02,F,MA,Black or African American,US Citizen,Single
+10136,0087-09-27,F,MA,Black or African American,US Citizen,Single
+10019,0083-03-19,M,MA,Black or African American,US Citizen,Single
+10223,0076-12-03,M,MA,Black or African American,US Citizen,Single
+10005,0079-02-20,M,MA,Black or African American,US Citizen,Single
+10286,0088-03-17,M,MA,Black or African American,US Citizen,Single
+10165,0069-02-24,M,NY,Black or African American,US Citizen,Single
+10128,0068-05-30,F,MA,Black or African American,US Citizen,Single
+10295,0068-06-06,F,MA,Black or African American,US Citizen,Single
+10102,0083-06-14,M,MA,Black or African American,Non-Citizen,Single
+10008,0088-10-05,F,CT,Black or African American,US Citizen,Single
+10015,0080-07-05,M,MA,Black or African American,US Citizen,Single
+10227,0072-09-11,F,MA,Black or African American,US Citizen,Single
+10257,0083-12-02,F,MA,Black or African American,US Citizen,Single
+10114,0070-02-11,F,MA,Black or African American,US Citizen,Single
+10076,0087-05-21,F,MA,Black or African American,US Citizen,Single
+10200,0070-06-11,M,TX,Black or African American,Eligible NonCitizen,Single
+10258,0063-08-28,M,CT,Black or African American,US Citizen,Single
+10215,0089-05-02,M,MA,Black or African American,US Citizen,Single
+10035,0082-03-28,F,MA,Black or African American,US Citizen,Single
+10115,0083-02-02,M,MA,Black or African American,US Citizen,Single
+10004,0073-02-14,F,MA,Black or African American,US Citizen,Single
+10292,0079-08-12,M,MA,Black or African American,US Citizen,Single
+10208,0077-11-10,M,MA,Black or African American,US Citizen,Single
+10161,0065-05-07,F,OR,Black or African American,US Citizen,Single
+10281,0079-11-24,M,MA,Black or African American,US Citizen,Single
+10028,0070-07-09,M,MA,Black or African American,US Citizen,Single
+10155,0079-07-05,F,MA,Black or African American,US Citizen,Single
+10190,0076-02-10,M,MA,Black or African American,US Citizen,Single
+10142,0071-07-10,F,OH,Black or African American,US Citizen,Widowed
+10116,0081-08-10,M,MA,Hispanic,US Citizen,Single
+10278,0082-08-25,F,MA,Two or more races,US Citizen,Divorced
+10205,0091-05-23,F,AZ,Two or more races,US Citizen,Married
+10202,0084-07-01,M,TX,Two or more races,US Citizen,Married
+10073,0086-12-10,F,MA,Two or more races,US Citizen,Married
+10303,0080-09-30,F,MA,Two or more races,US Citizen,Single
+10042,0089-03-31,F,GA,Two or more races,US Citizen,Single
+10018,0080-05-08,F,MA,Two or more races,US Citizen,Single
+10109,0069-02-09,M,TN,Two or more races,US Citizen,Single
+10265,0083-07-20,M,MA,Two or more races,US Citizen,Single
+10306,0075-11-02,M,AL,Two or more races,US Citizen,Single
+10143,0079-09-14,M,MA,Two or more races,Eligible NonCitizen,Single
+10204,0083-07-30,F,MA,White,US Citizen,Divorced
+10262,0070-09-22,F,MA,White,US Citizen,Divorced
+10254,0084-07-07,F,MA,White,US Citizen,Divorced
+10058,0082-07-22,M,MA,White,US Citizen,Divorced
+10236,0066-03-22,F,MA,White,US Citizen,Divorced
+10030,0073-03-26,F,MA,White,US Citizen,Divorced
+10282,0075-12-17,M,MA,White,US Citizen,Divorced
+10098,0081-07-11,M,MA,White,US Citizen,Divorced
+10059,0083-05-21,F,MA,White,US Citizen,Divorced
+10152,0084-12-31,M,MA,White,US Citizen,Divorced
+10069,0089-09-08,F,MA,White,US Citizen,Divorced
+10160,0076-09-22,F,MA,White,US Citizen,Divorced
+10066,0077-07-15,M,MA,White,US Citizen,Divorced
+10144,0068-10-10,M,MA,White,US Citizen,Divorced
+10014,0087-01-31,M,MA,White,US Citizen,Divorced
+10250,0088-01-07,M,MA,White,US Citizen,Divorced
+10056,0078-11-05,F,MA,White,US Citizen,Married
+10117,0082-10-07,M,MA,White,US Citizen,Married
+10212,0052-01-18,F,CT,White,US Citizen,Married
+10259,0084-09-05,M,MA,White,US Citizen,Married
+10307,0074-05-09,M,NV,White,US Citizen,Married
+10189,0055-04-14,F,MA,White,US Citizen,Married
+10017,0081-10-26,F,MA,White,US Citizen,Married
+10310,0067-04-19,M,MA,White,US Citizen,Married
+10140,0054-10-12,M,ID,White,US Citizen,Married
+10186,0081-03-26,F,MA,White,US Citizen,Married
+10090,0075-09-30,F,MA,White,US Citizen,Married
+10178,0070-02-08,M,MA,White,US Citizen,Married
+10089,0054-09-21,F,MA,White,US Citizen,Married
+10094,0077-03-31,F,MA,White,US Citizen,Married
+10092,0072-07-01,M,MA,White,US Citizen,Married
+10166,0073-12-08,F,MA,White,US Citizen,Married
+10235,0078-08-25,M,MA,White,US Citizen,Married
+10052,0086-12-09,M,MA,White,US Citizen,Married
+10185,0083-03-28,M,MA,White,US Citizen,Married
+10126,0086-07-24,F,MA,White,US Citizen,Married
+10084,0075-05-05,M,MA,White,US Citizen,Married
+10269,0078-11-25,M,MA,White,US Citizen,Married
+10193,0086-08-26,M,MA,White,US Citizen,Married
+10308,0089-10-18,M,MA,White,US Citizen,Married
+10213,0092-08-17,M,MA,White,US Citizen,Married
+10023,0066-04-17,F,MA,White,US Citizen,Married
+10195,0084-02-16,F,MA,White,Non-Citizen,Married
+10275,0081-08-31,F,MA,White,US Citizen,Married
+10177,0090-08-24,F,MA,White,US Citizen,Married
+10181,0077-08-19,M,MA,White,US Citizen,Married
+10045,0069-03-31,M,MA,White,Eligible NonCitizen,Married
+10029,0080-08-26,M,MA,White,US Citizen,Married
+10237,0086-05-25,F,MA,White,US Citizen,Married
+10022,0086-06-03,F,MA,White,US Citizen,Married
+10053,0077-11-22,F,MA,White,US Citizen,Married
+10305,0075-07-07,M,MA,White,US Citizen,Married
+10133,0088-07-18,F,MA,White,US Citizen,Married
+10080,0079-04-16,F,MA,White,US Citizen,Married
+10049,0081-03-16,F,MA,White,US Citizen,Married
+10130,0077-05-09,F,MA,White,US Citizen,Married
+10134,0084-06-10,M,MA,White,US Citizen,Married
+10007,0074-05-02,F,MA,White,US Citizen,Married
+10179,0081-04-14,F,MA,White,US Citizen,Married
+10021,0076-12-11,M,MA,White,US Citizen,Married
+10034,0059-08-19,M,MA,White,US Citizen,Married
+10228,0089-11-24,M,MA,White,US Citizen,Married
+10311,0088-04-15,M,MA,White,US Citizen,Married
+10051,0079-05-21,M,MA,White,US Citizen,Married
+10249,0084-05-09,M,MA,White,US Citizen,Married
+10070,0077-10-31,M,MA,White,US Citizen,Married
+10091,0085-08-24,F,MA,White,US Citizen,Married
+10173,0087-10-24,M,MA,White,US Citizen,Married
+10196,0088-09-19,F,MA,White,US Citizen,Married
+10211,0073-09-23,F,MA,White,US Citizen,Married
+10077,0076-08-25,F,MA,White,US Citizen,Married
+10003,0089-09-01,F,MA,White,US Citizen,Married
+10151,0079-04-04,F,MA,White,US Citizen,Married
+10163,0083-11-08,F,MA,White,US Citizen,Married
+10272,0066-03-17,F,RI,White,US Citizen,Married
+10108,0072-02-09,M,MA,White,US Citizen,Married
+10170,0070-10-08,F,MA,White,US Citizen,Married
+10032,0086-08-17,F,MA,White,US Citizen,Married
+10302,0068-07-20,F,MA,White,US Citizen,Married
+10048,0065-09-09,M,MA,White,Eligible NonCitizen,Married
+10088,0088-09-27,F,MA,White,US Citizen,Married
+10137,0079-03-19,M,MA,White,US Citizen,Married
+10063,0077-04-08,M,MA,White,US Citizen,Married
+10233,0086-04-26,M,MA,White,US Citizen,Married
+10125,0077-03-23,F,MA,White,US Citizen,Married
+10148,0079-05-01,F,MA,White,US Citizen,Married
+10162,0081-10-11,F,MA,White,US Citizen,Married
+10146,0053-05-24,F,MA,White,US Citizen,Married
+10224,0072-07-03,M,MA,White,US Citizen,Married
+10113,0086-04-23,M,MA,White,US Citizen,Married
+10279,0074-11-07,F,MA,White,US Citizen,Married
+10285,0085-01-07,F,MA,White,US Citizen,Married
+10044,0088-05-05,M,MA,White,US Citizen,Married
+10064,0091-09-05,F,MA,White,US Citizen,Married
+10013,0068-01-15,M,ND,White,US Citizen,Separated
+10214,0092-05-07,F,MA,White,US Citizen,Separated
+10060,0064-04-13,F,MA,White,US Citizen,Separated
+10054,0074-12-05,F,MA,White,US Citizen,Separated
+10101,0081-04-16,F,MA,White,US Citizen,Separated
+10299,0089-08-25,F,MA,White,US Citizen,Separated
+10201,0084-03-11,F,MA,White,US Citizen,Single
+10245,0086-04-04,F,MA,White,US Citizen,Single
+10075,0072-08-27,F,MA,White,US Citizen,Single
+10095,0087-11-25,F,MA,White,US Citizen,Single
+10026,0083-07-10,M,MA,White,US Citizen,Single
+10067,0051-01-02,F,MA,White,US Citizen,Single
+10147,0086-09-01,M,MA,White,US Citizen,Single
+10027,0063-10-30,M,MA,White,US Citizen,Single
+10055,0070-10-27,F,MA,White,Eligible NonCitizen,Single
+10135,0085-05-11,M,MA,White,US Citizen,Single
+10294,0090-09-21,F,MA,White,US Citizen,Single
+10132,0087-04-10,F,MA,White,US Citizen,Single
+10309,0087-06-18,M,MA,White,US Citizen,Single
+10276,0082-11-15,M,MA,White,US Citizen,Single
+10296,0089-05-06,F,MA,White,US Citizen,Single
+10001,0083-08-09,M,MA,White,US Citizen,Single
+10085,0087-04-05,F,MA,White,US Citizen,Single
+10040,0063-05-15,F,VT,White,US Citizen,Single
+10112,0084-02-21,F,MA,White,US Citizen,Single
+10157,0065-02-02,F,MA,White,US Citizen,Single
+10231,0079-11-27,M,CO,White,US Citizen,Single
+10219,0086-07-07,F,MA,White,US Citizen,Single
+10150,0066-11-22,M,MA,White,US Citizen,Single
+10207,0086-10-07,F,MA,White,US Citizen,Single
+10267,0067-01-16,F,MA,White,US Citizen,Single
+10093,0081-10-01,M,MA,White,US Citizen,Single
+10293,0080-08-02,F,MA,White,US Citizen,Single
+10111,0085-09-15,M,MA,White,US Citizen,Single
+10243,0092-06-18,F,MA,White,US Citizen,Single
+10097,0052-08-18,F,MA,White,US Citizen,Single
+10273,0068-07-06,F,CT,White,US Citizen,Single
+10002,0077-05-22,F,MA,White,US Citizen,Single
+10240,0083-08-27,F,MA,White,US Citizen,Single
+10129,0084-01-04,M,MA,White,US Citizen,Single
+10121,0090-05-11,F,FL,White,US Citizen,Single
+10083,0065-09-09,M,CT,White,US Citizen,Single
+10139,0091-01-28,F,MA,White,US Citizen,Single
+10074,0088-08-10,M,MA,White,US Citizen,Single
+10225,0061-06-19,M,MA,White,US Citizen,Single
+10248,0086-06-10,F,MA,White,US Citizen,Single
+10244,0089-11-11,F,PA,White,US Citizen,Single
+10036,0069-09-08,F,MA,White,US Citizen,Single
+10206,0084-07-07,F,MA,White,US Citizen,Single
+10024,0083-05-06,M,MA,White,US Citizen,Single
+10068,0076-09-22,F,MA,White,US Citizen,Single
+10184,0083-07-28,M,MA,White,US Citizen,Single
+10304,0087-05-14,F,WA,White,US Citizen,Single
+10270,0085-03-15,F,MA,White,US Citizen,Single
+10171,0086-07-20,F,MA,White,US Citizen,Single
+10043,0079-02-24,F,MA,White,US Citizen,Single
+10183,0085-04-06,F,MA,White,US Citizen,Single
+10061,0081-10-18,M,MA,White,US Citizen,Single
+10010,0079-08-30,F,MA,White,US Citizen,Single
+10099,0090-04-19,F,VT,White,US Citizen,Single
+10149,0073-05-27,F,MA,White,US Citizen,Single
+10260,0074-12-21,M,MA,White,US Citizen,Single
+10261,0077-09-08,M,MA,White,US Citizen,Single
+10280,0083-09-02,M,MA,White,US Citizen,Single
+10287,0083-05-16,F,MA,White,US Citizen,Single
+10072,0087-05-24,M,MA,White,US Citizen,Single
+10041,0082-05-19,M,NC,White,US Citizen,Single
+10006,0088-11-08,F,CA,White,US Citizen,Single
+10154,0083-08-24,M,MA,White,US Citizen,Single
+10141,0065-05-09,F,MA,White,US Citizen,Single
+10104,0085-11-23,F,MA,White,US Citizen,Single
+10255,0089-09-22,F,IN,White,US Citizen,Single
+10039,0088-05-19,F,MA,White,US Citizen,Single
+10198,0073-04-05,M,MA,White,US Citizen,Single
+10194,0079-05-24,F,MA,White,US Citizen,Single
+10246,0071-10-23,F,MA,White,US Citizen,Single
+10046,0070-12-22,M,MA,White,US Citizen,Single
+10164,0081-11-23,M,MA,White,US Citizen,Single
+10210,0079-02-12,F,MA,White,US Citizen,Single
+10298,0085-06-29,M,MA,White,US Citizen,Single
+10192,0076-01-19,M,MA,White,US Citizen,Single
+10033,0058-11-07,M,MA,White,US Citizen,Single
+10065,0087-03-18,M,MA,White,US Citizen,Single
+10247,0074-05-31,M,MA,White,US Citizen,Single
+10197,0083-09-04,M,MA,White,US Citizen,Single
+10105,0073-11-28,F,MA,White,US Citizen,Single
+10220,0085-09-05,M,MA,White,US Citizen,Single
+10174,0085-04-20,F,MA,White,US Citizen,Single
+10191,0072-11-09,M,MA,White,US Citizen,Widowed
+10062,0083-02-18,M,MA,White,US Citizen,Widowed
+10096,0076-12-26,F,MA,White,US Citizen,Widowed
+10268,0075-09-16,M,MA,White,US Citizen,Widowed
+10020,0085-01-28,M,MA,White,US Citizen,Widowed

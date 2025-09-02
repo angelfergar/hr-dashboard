@@ -1,0 +1,34 @@
+PositionID,Position,Department
+1,Accountant I,Admin Offices
+26,Sr. Accountant,Admin Offices
+2,Administrative Assistant,Admin Offices
+23,Shared Services Manager,Admin Offices
+16,President & CEO,Executive Office
+22,Senior BI Developer,IT/IS
+4,BI Developer,IT/IS
+13,IT Manager - Infra,IT/IS
+7,Data Architect,IT/IS
+30,Enterprise Architect,IT/IS
+12,IT Director,IT/IS
+14,IT Support,IT/IS
+13,IT Manager - Support,IT/IS
+6,CIO,IT/IS
+9,Data Analyst,IT/IS
+28,Sr. Network Engineer,IT/IS
+29,Principal Data Architect,IT/IS
+27,Sr. DBA,IT/IS
+15,Network Engineer,IT/IS
+13,IT Manager - DB,IT/IS
+8,Database Administrator,IT/IS
+5,BI Director,IT/IS
+20,Production Technician II,Production
+18,Production Manager,Production
+10,Director of Operations,Production
+17,Production Manager,Production
+19,Production Technician I,Production
+21,Sales Manager,Sales
+3,Area Sales Manager,Sales
+11,Director of Sales,Sales
+23,Software Engineer,Software Engineering
+25,Software Engineering Manager,Software Engineering
+24,Software Engineer,Software Engineering
