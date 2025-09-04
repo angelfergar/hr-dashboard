@@ -24,8 +24,14 @@ El flujo de trabajo combina:
 │   ├── ETL.pynb
 │── /reports
 │   ├── hr-report.pbix
+│   ├── hr-report.pdf
 │   ├── /images
-│   │   ├── 
+│   │   ├── Compensation_Dashboard.png
+│   │   ├── Demographics_Dashboard.png
+│   │   ├── Managers_Dashboard.png
+│   │   ├── Overview_Dashboard.png
+│   │   ├── Performance_Dashboard.png
+│   │   ├── Tenure_Dashboard.png
 │── /sql-queries
 │   ├── data-model.sql       
 │   ├── format-columns.sql  
@@ -59,36 +65,90 @@ El report completo incluye los siguientes dashboards:
 
 📷 ### **Dashboard Previews**
 
-🔹 #### Overview Dashboard
+#### 🔹 **Overview Dashboard**
 
-url
+<img src="reports/images/Overview_Dashboard.png" alt="Overview" width="500"/>
 
-🔹 #### Demographics Dashboard
+#### 🔹 **Demographics Dashboard**
 
-url
+<img src="reports/images/Demographics_Dashboard.png" alt="Demographics" width="500"/>
 
-🔹 #### Compensation Dashboard
+#### 🔹**Compensation Dashboard**
 
-url
+<img src="reports/images/Compensation_Dashboard.png" alt="Compensation" width="500"/>
 
-🔹 #### Performance Dashboard
+#### 🔹**Performance Dashboard**
 
-url
+<img src="reports/images/Performance_Dashboard.png" alt="Performance" width="500"/>
 
-🔹 #### Tenure & Term Dashboard
+#### 🔹**Tenure Dashboard**
 
-url
+<img src="reports/images/Tenure_Dashboard.png" alt="Tenure" width="500"/>
 
-🔹 #### Managers Dashboard
+#### 🔹**Managers Dashboard**
 
-url
+<img src="reports/images/Managers_Dashboard.png" alt="Managers" width="500"/>
 
 ---
 ## 📈 3. Insights Clave del Análisis
+### **1. Demografía**
+
+* Género balanceado globalmente.
+* Edad concentrada entre 30–45 años, teniendo una media de edad de, aproximadamente, 46 años.
+* Diversidad racial presente, aunque con concentraciones en ciertos roles.
+
+### **2. Compensación**
+
+* Salarios muy dispersos entre posiciones y departamentos.
+* A más proyectos especiales, mayor es la posibilidad de obtener mayor salario.
+* Hay una pequeña diferencia entre el salario de los empleados con performance "Exceeds" y "PIP". 
+* No se observan grandes brechas de género o edad.
+
+**Conclusión:** la compensación va ligada principalmente a las responsabilidades adicionales, más que al propio desempeño de los empleados.
+
+### **3. Performance**
+
+* Cerca del 80% de empleados tienen una puntuación de "Fully Meets" (4/5).
+* El departamento de Producción cuenta con el mayor número de empleados. Al ser más, la dispersión es mayor.
+* Hay diferencias de desempeño en base al manager. El liderazgo es un factor clave.
+
+* La satisfacción promedio es de 3,89 sobre 5, mientras que la puntuación promedia de engagement está algo por encima del 4.
+* El engagement es un mejor predictor de desempeño que la satisfacción.
+* Departamentos con menor engagement tienen mayor número de salidas.
+
+* El mayor número de ausencias está ligado a perfiles con menor rendimiento.
+* Las tardanzas también pueden ser un indicador de desmotivación, ya que están ligadas al bajo engagement.
+
+**Conclusión:** la cultura de equipo y el liderazgo pesan más que salario o antigüedad.
+
+### **4. Tenure (Antigüedad)**
+
+* Alrededor del 70% de los empleados analizados siguen activos.
+* Duración media de casi 5 años en la empresa.
+* Más de un 60% de los empleados lleva trabajando más de 5 años en la empresa.
+* No hay relación directa entre tenure y desempeño.
+* Alta rotación en departamentos con bajo engagement.
+* Cuando el salario supera 110k, se ve un aumento en Tenure.
+* Managers específicos concentran bajas por bajo desempeño.
+* Ingresos/salidas muestran picos de contratación en ciertos años → clave para planear sucesión.
+
+* **Early tenure:** salidas por insatisfacción o bajo performance.
+* **Mayor tenure:** salidas por otras oportunidades.
+
+### **5. Managers/ Departamentos**
+
+* Los managers de Producción son un foco de riesgo: baja satisfacción y alta rotación.
+* Los managers de Ventas y Administración tienen empleados con engagement alto y baja rotación.
+* Los empleados de IT tienen tenures cortas, aunque no haya problemas de performance.
+* Los managers de Software Engineering cuentan con un departamento con un engagement y satisfacción altos, pero con una rotación alta por otras oportunidades.
 
 ---
 ### Conclusiones Estratégicas
-
+* El engagement es el verdadero driver de performance, más que salario o antigüedad.
+* La compensación premia proyectos, más que el propio desempeño → riesgo de desmotivación en top performers.
+* Los managers marcan la diferencia en desempeño y rotación → HR debe monitorear métricas por manager.
+* La rotación se resume en: en early tenure por bajo performance; en perfiles senior por fuga de talento.
+* La puntualidad (tardanzas) funciona como indicador del compromiso → métrica preventiva clave.
 ---
 ## 📥 4. Instalación y Uso
 
@@ -115,7 +175,11 @@ cd hr-analytics-dashboard
 
 ---
 ## 📊 5. Resultados Clave
-
+* El análisis confirma que liderazgo y engagement son los principales motores de performance.
+* La rotación se explica por factores distintos según la antigüedad, lo que abre espacio a estrategias diferenciadas.
+* La compensación actual puede generar inequidades percibidas al no premiar a top performers.
+* La empresa cuenta con una plantilla madura y diversa, aunque con sesgos en algunos departamentos.
+* La puntualidad y el engagement pueden usarse como métricas preventivas de riesgo de fuga de talento.
 ---
 ## 🤝 6. Contribución
 
